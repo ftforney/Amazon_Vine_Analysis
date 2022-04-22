@@ -8,7 +8,7 @@ For this selection, we are analysing the data for Digital Video Games on Amazon.
 
 ## Results
 
-# Unpaid Reviews
+### Unpaid Reviews
 
 ![Count of Total Reviews for Unpaid](https://i.imgur.com/Rwn90Yi.png)
 
@@ -22,7 +22,7 @@ We can see here that the number of five star reviews is 631.
 
 And using those two numbers, we can get the percentage of five star reviews for the Unpaid Category.
 
-# Paid Reviews
+### Paid Reviews
 
 ![No Data Available for Paid Reviews](https://i.imgur.com/qHcnSVi.png)
 
